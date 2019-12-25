@@ -23,6 +23,13 @@ Databases, Computer Architecture.
 
 **6.    Parallel Reinforcement Learning**
 
+**7. 	Gesture Recognition**
+
+**8. 	Apparel Classification**
+
+
 # Graduate Research
 
-Monte Carlo Planning
+**Monte Carlo Planning** <br/>
+
+My advisor, [Prof. Prasad Tadepalli](http://web.engr.oregonstate.edu/~tadepall/) and I, are working on developing an AI-player algorithm using Monte Carlo Tree Search for the game of [Klondike Solitaire](https://www.solitaire-klondike.com/).
