@@ -4,14 +4,13 @@ layout: default
 permalink: /portfolio/
 ---
 
-Course Work
-------------
+## <u>Course Work</u>
+
 
 Data Structures, Algorithms, Calculus, Statistics theory, Statistical Methods, Probability,  Machine Learning, Deep Learning, Reinforcement Learning, Artificial Intelligence, Operating Systems,
 Databases, Computer Architecture.
 
-Projects
------------
+## <u>Projects</u>
 
 **1.    Recommendation System for MovieLens Dataset**
 
@@ -30,8 +29,7 @@ Projects
 **8. 	Apparel Classification**
 
 
-Graduate Research
-------------------
+## <u>Graduate Research</u>
 
 **Monte Carlo Planning** <br/>
 
