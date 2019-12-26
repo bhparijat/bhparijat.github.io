@@ -12,8 +12,12 @@ Databases, Computer Architecture.
 
 ## <u>Projects</u>
 
-**1.    Recommendation System for MovieLens Dataset**
-
+**1.    Recommendation System for MovieLens Dataset**<br/>
+	* Created a recommendation system for 10 million movies of MovieLens dataset by implementing collaborative filtering and matrix factorization.\
+	* Used nearest neighbor algorithm for the collaborative filtering method and alternating least squares method for matrix factorization.
+	* <u>Framework and platform used:</u> Apache Spark and Google Cloud Platform.
+	* Code [link](https://github.com/bhparijat/Recommendation-system).
+	
 **2.    NYPD Crime Data Analysis**<br/>
 	* Checking where it starts <br/>
 **3.    Monte Carlo Tree Search For Atari Game Pong**<br/>
