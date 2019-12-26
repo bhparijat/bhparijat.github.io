@@ -9,7 +9,7 @@ My name is Parijat Bhatt, a Master of Science student at Oregon State University
 
 I hail from Gorakhpur, a city in northern part of India and when I am not doing work, you may find me at the gym, or playing pool. I love reading and very recently I have been exploring the philosphy of stoicism. I like to blog about data analysis and you may find some of my posts at [medium](https://medium.com/@parijat.bhatt)
 
-I am looking for a full-time role in data analysis and machine learning starting **June 2020**. Please look at my [portfolio](https://parijat129.github.io/portfolio) and [github](https://github.com/parijat129)  to see my projects.
+I am looking for a full-time/part-time role in data analysis and machine learning starting **June 2020**.[Here](https://bhparijat.github.io/workExperience/) is previous work experience. Please look at my [portfolio](https://bhparijat.github.io/portfolio) and [github](https://github.com/parijat129)  to see my projects.
 
 My skillsets involve:
 
