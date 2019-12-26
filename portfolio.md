@@ -17,7 +17,9 @@ Databases, Computer Architecture.
 	<u>Framework and platform used:</u> Apache Spark and Google Cloud Platform. You may find the [code here](https://github.com/bhparijat/Recommendation-system).
 	
 **2.    NYPD Crime Data Analysis**<br/>
-	* Checking where it starts <br/>
+	Ongoing project. Reverse geocoded 4.8 million addresses. Ananlysed and generated summary statistics and visualizations for the crimes happened in New York between 2014 and 2017.
+	<u>Framework and platform used:</u> Google Cloud Platform, Pandas, Pelias. [Code link](https://github.com/bhparijat/NYPD-crime-analysis)
+	<br/>
 	
 **3.    Monte Carlo Tree Search For Atari Game Pong**<br/>
 	My teammate [Ravi](https://www.linkedin.com/in/sudharkj/) and I, created a Monte Carlo Tree Search and deep learning model, to generate a policy for action selection for the atari game Pong.
