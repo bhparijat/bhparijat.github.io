@@ -27,7 +27,7 @@ Databases, Computer Architecture.
 **7. 	Gesture Recognition**
 
 **8. 	Apparel Classification**
-
+	Trained a CNN model on Nvidia GPUs, to classify 10 types of apparel and other clothing wear. Used Adam optimizer and Cross Entropy loss for training and the trained model had a final loss of 0.0035. [jupyter notebook link](https://github.com/bhparijat/Image-classification-Fashion-MNIST/blob/master/Fashion-MNIST.ipynb) 
 
 ## <u>Graduate Research</u>
 
