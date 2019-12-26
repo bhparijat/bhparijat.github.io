@@ -20,7 +20,11 @@ Databases, Computer Architecture.
 	* Checking where it starts <br/>
 	
 **3.    Monte Carlo Tree Search For Atari Game Pong**<br/>
-	Monte Carlo thing starts here<br/>
+	My teammate [Ravi](https://www.linkedin.com/in/sudharkj/) and I, created a Monte Carlo Tree Search and deep learning model, to generate a policy for action selection for the atari game Pong.
+	We implemented ideas from the famous deep-learning paper [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning]
+	(https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf). The optimal policy generated could beat random policy by a significant margin.
+	<u>Framework and platform used:</u> PyTorch, OpenAI gym, OSU pelican cloud.[Code link](https://github.com/bhparijat/Monte-Carlo-Tree-Search-For-Pong)
+	<br/>
 	
 **4.    Exploration Map Inpainting**<br/>
 	* This is the deep learning project<br/>
