@@ -23,12 +23,11 @@ Databases, Computer Architecture.
 **5.    Lottery Scheduling**
 
 **6.    Parallel Reinforcement Learning** <br/>
-	My teammate [Aashish](http://www.adhikariaashish.com.np/) and I,  implemented reinforcement learning algorithms like value iteration, policy iteration, Q-learning, SARSA and Deep-Q-Network using
-	[Ray library](https://github.com/ray-project/ray) to leverage computation power of multiple CPUs. The parallel implementation significantly improved the overall computation time for larger environments without affecting the resultant policy. All the implementation was done on Intel Dev Cloud. The code can be found [here](https://github.com/bhparijat/Parallel-Reinforcement-Learning).
+	<p>My teammate [Aashish](http://www.adhikariaashish.com.np/) and I,  implemented reinforcement learning algorithms like value iteration, policy iteration, Q-learning, SARSA and Deep-Q-Network us	ing[Ray library](https://github.com/ray-project/ray) to leverage computation power of multiple CPUs. The parallel implementation significantly improved the overall computation time for larger environments without affecting the resultant policy. All the implementation was done on Intel Dev Cloud. The code can be found [here](https://github.com/bhparijat/Parallel-Reinforcement-Learning).</p><br/>
 **7. 	Gesture Recognition**
 
 **8. 	Apparel Classification**<br/>
-	Trained a CNN model on Nvidia GPUs, to classify 10 types of apparel and other clothing wear. Used Adam optimizer and Cross Entropy loss for training and the trained model had a final loss of 0.0035. [jupyter notebook link](https://github.com/bhparijat/Image-classification-Fashion-MNIST/blob/master/Fashion-MNIST.ipynb) 
+	<p>Trained a CNN model on Nvidia GPUs, to classify 10 types of apparel and other clothing wear. Used Adam optimizer and Cross Entropy loss for training and the trained model had a final loss of 0.0035. [jupyter notebook link](https://github.com/bhparijat/Image-classification-Fashion-MNIST/blob/master/Fashion-MNIST.ipynb)</p><br/>
 
 ## <u>Graduate Research</u>
 
