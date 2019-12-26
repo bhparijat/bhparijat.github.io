@@ -1,4 +1,4 @@
-l---
+---
 title:
 layout: default
 permalink: /workExperience/
@@ -15,7 +15,10 @@ permalink: /workExperience/
 ### 3. Associate Software Engineer at CGI, India (August 2017 - July 2018)
 
 ### 4. Software Engineering Intern at [Rannlab](www.rannlab.com), India (June 2016 - July 2016)
-    * Led a team of two, to create a in-house desktop application for optimizing web pages.
+    * Led a team of two, to create an in-house desktop application for optimizing web pages.
+    * Incorporated methods like minifying files, gzip compression, scaling and optimizing images.
+    * The optimized webpages showed over 20% improvement on [gtmetrix](https://gtmetrix.com/). 
+    * Used JAVA technology.
     
 ### 5. Web Developer at Computer Center, IIT Dhn (December 2015 - January 2016)
     * Worked on developing webpages for college website.
