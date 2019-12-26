@@ -28,7 +28,11 @@ Databases, Computer Architecture.
 	<br/>
 	
 **4.    Exploration Map Inpainting**<br/>
-	* This is the deep learning project<br/>
+	For the deep learning class, I alongwith my friend [Manish Saroya](https://sites.google.com/view/manishsaroya/home?authuser=0), worked on the
+	[Darpa Subterranean Challenge](https://www.subtchallenge.com/index.html) to develop a model that could rapidly map complex environments. We created a synthetic map database of 60K images
+	consisting of grid-based maps. Our model could learn loop-closures, T-points and fill image holes. For this project, we used ideas from [Partial Convolution Paper](https://arxiv.org/abs/1804.07723) to implement our own UNET structure for image inpainting.<u>Framework and platform used:</u> PyTorch, OSU cloud cluster. You may find a complete report on the
+	[project here](https://bhparijat.github.io/assets/report.pdf). [Code link](https://github.com/bhparijat/map-inpainting)
+	<br/>
 	
 **5.    Lottery Scheduling**<br/>
 	Implemented lottery scheduling to schedule processes in xv6 environment. Each process when created would be given a ticket. Whenever a process in the ready queue is to be scheduled, a random
@@ -47,7 +51,7 @@ Databases, Computer Architecture.
 	[here](https://github.com/bhparijat/gesture_recognition/blob/master/sign_recognition_using__DNN.ipynb). <br/>
 	
 **8. 	Apparel Classification**<br/>
-	Trained a CNN model on Nvidia GPUs, to classify 10 types of apparel and other clothing wear. Used Adam optimizer and Cross Entropy loss for training and the trained model had a final loss of
+	Trained a CNN model on Nvidia GPUs, to classify 10 types of apparel and other clothing wear. Used Adam optimizer and Cross Entropy loss for training to attain a final loss of
 	0.0035. [jupyter notebook link](https://github.com/bhparijat/Image-classification-Fashion-MNIST/blob/master/Fashion-MNIST.ipynb)<br/>
 
 ## <u>Graduate Research</u>
