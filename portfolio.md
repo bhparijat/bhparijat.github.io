@@ -23,7 +23,9 @@ Databases, Computer Architecture.
 **4.    Exploration Map Inpainting**<br/>
 	* This is the deep learning project<br/>
 **5.    Lottery Scheduling**<br/>
-	Implemented lottery scheduling to schedule processes in xv6 environment. Each process when created would be given a ticket. Whenever a process in the ready queue is to be scheduled, a random ticket is generated and tickets for the processess in the queue are summed up. As soon as the sum goes beyond the random number, a process is scheduled. <u>Framework and platform:</u> C, xv6, OSU server. <br/> 
+	Implemented lottery scheduling to schedule processes in xv6 environment. Each process when created would be given a ticket. Whenever a process in the ready queue is to be scheduled, a random
+	ticket is generated and tickets for the processess in the queue are summed up. As soon as the sum goes beyond the random number, a process is scheduled. <u>Framework and platform:</u> C, xv6,
+	OSU server. Here is the [code link](https://github.com/bhparijat/Operating-Systems/tree/master/hw4) <br/> 
 	
 **6.    Parallel Reinforcement Learning** <br/>
 	My teammate [Aashish](http://www.adhikariaashish.com.np/) and I,  implemented reinforcement learning algorithms like value iteration, policy iteration, Q-learning, SARSA and Deep-Q-Network
