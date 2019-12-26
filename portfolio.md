@@ -13,7 +13,8 @@ Databases, Computer Architecture.
 ## <u>Projects</u>
 
 **1.    Recommendation System for MovieLens Dataset**<br/>
-	Created a recommendation system for 10 million movies of MovieLens dataset by implementing collaborative filtering and matrix factorization. Used nearest neighbor algorithm for the collaborative	  filtering method and alternating least squares method for matrix factorization.<br/> <u>Framework and platform used:</u> Apache Spark and Google Cloud Platform. You may find the [code here](https://g	    ithub.com/bhparijat/Recommendation-system).
+	Created a recommendation system for 10 million movies of MovieLens dataset by implementing collaborative filtering and matrix factorization. Used nearest neighbor algorithm for the collaborative	  filtering method and alternating least squares method for matrix factorization.
+	<u>Framework and platform used:</u> Apache Spark and Google Cloud Platform. You may find the [code here](https://github.com/bhparijat/Recommendation-system).
 	
 **2.    NYPD Crime Data Analysis**<br/>
 	* Checking where it starts <br/>
@@ -30,7 +31,7 @@ Databases, Computer Architecture.
 	[here](https://github.com/bhparijat/Parallel-Reinforcement-Learning).
 	<br/>
 **7. 	Gesture Recognition**
-	Trained a deep neural network with softmax cross entropy loss and adam optimization for images containing hand gestures. The trained model attained an accuracy of over 91%.<br/>
+	Trained a deep neural network with softmax cross entropy loss and adam optimization for images containing hand gestures. The trained model attained an accuracy of over 91%.
 	<u>Framework and platform:</u> Tensorflow and pelican cluster of Oregon State University. The jupyter notebook containing code can be found [here](https://github.com/bhparijat/gesture_recognition/blob/master/sign_recognition_using__DNN.ipynb) 
 **8. 	Apparel Classification**<br/>
 	Trained a CNN model on Nvidia GPUs, to classify 10 types of apparel and other clothing wear. Used Adam optimizer and Cross Entropy loss for training and the trained model had a final loss of
