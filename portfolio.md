@@ -14,12 +14,12 @@ Databases, Computer Architecture.
 
 **1.    Recommendation System for MovieLens Dataset**
 
-**2.    NYPD Crime Data Analysis**
-	* Checking where it starts
-**3.    Monte Carlo Tree Search For Atari Game Pong**
-	Monte Carlo thing starts here
-**4.    Exploration Map Inpainting**
-	* This is the deep learning project
+**2.    NYPD Crime Data Analysis**<br/>
+	* Checking where it starts <br/>
+**3.    Monte Carlo Tree Search For Atari Game Pong**<br/>
+	Monte Carlo thing starts here<br/>
+**4.    Exploration Map Inpainting**<br/>
+	* This is the deep learning project<br/>
 **5.    Lottery Scheduling**
 
 **6.    Parallel Reinforcement Learning** <br/>
