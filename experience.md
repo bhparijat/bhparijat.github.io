@@ -17,7 +17,8 @@ permalink: /workExperience/
   * Handeled class imbalance for data sets    
   * Trained machine learning models using logistic regression, Kernel-SVM, Random Forests, Artificial neural nets, AdaBoost, Decision Trees, CART    
   * Wrote Python Scripts for automation of redundant tasks    
-  * Explained the meaning of machine learning algorithms to colleagues.      
+  * Explained the meaning of machine learning algorithms to colleagues.
+      
 **3. Associate Software Engineer at CGI, India (August 2017 - July 2018)**<br/>
 
 **4. Software Engineering Intern at [Rannlab](www.rannlab.com), India (June 2016 - July 2016)**<br/>
