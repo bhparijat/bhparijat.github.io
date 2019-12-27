@@ -20,7 +20,10 @@ permalink: /workExperience/
   * Explained the meaning of machine learning algorithms to colleagues.
       
 **3. Associate Software Engineer at CGI, India (August 2017 - July 2018)**<br/>
-
+  * Worked as a full stack developer getting hands-on experience on front-end, backend and databases.      
+  * Created a chat plugin for an in-house client assistance application.
+  * Used Angular 2, ExpressJS, MongoDB, Cassandra, Redis for the same.
+      
 **4. Software Engineering Intern at [Rannlab](www.rannlab.com), India (June 2016 - July 2016)**<br/>
 
   * Led a team of two, to create an in-house desktop application for optimizing web pages.   
