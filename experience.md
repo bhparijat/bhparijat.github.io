@@ -20,6 +20,6 @@ permalink: /workExperience/
     * The optimized webpages showed over 20% improvement on [gtmetrix](https://gtmetrix.com/). 
     * Used JAVA technology.
     
-### 5. Web Developer at Computer Center, IIT Dhn (December 2015 - January 2016)
-       Worked on developing webpages for college website.   
-       Used HTML,CSS, Javascript, PHP for the same.
+**5. Web Developer at Computer Center, IIT Dhn (December 2015 - January 2016)**
+     * Worked on developing webpages for college website.   
+     * Used HTML,CSS, Javascript, PHP for the same.
