@@ -22,5 +22,5 @@ My skillsets involve:
 **Databases:** SQL, MongoDB <br/>
 **OS Platform:** Linux, Windows <br/>
 **Version Control:** Git, Bitbucket <br/>
-**Development Methodology:** Agile, Scrum
+**Development Methodology:** Agile, Scrum         
 **SAAS tools and Platform:** Google Maps Platform
