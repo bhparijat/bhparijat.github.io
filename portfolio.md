@@ -57,6 +57,10 @@ Databases, Computer Architecture.
 	Trained a CNN model on Nvidia GPUs, to classify 10 types of apparel and other clothing wear. Used Adam optimizer and Cross Entropy loss for training to attain a final loss of
 	0.0035. [jupyter notebook link](https://github.com/bhparijat/Image-classification-Fashion-MNIST/blob/master/Fashion-MNIST.ipynb)<br/>
 
+**9.	Web crawling**       
+	Used BeautifulSoup library to implement a python script that could  scrape reviews of restaurants in San Francisco from Yelp website.
+	[Code link](https://github.com/bhparijat/web-scraping)         
+	
 ## <u>Graduate Research</u>
 
 **Monte Carlo Planning** <br/>

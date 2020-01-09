@@ -15,7 +15,7 @@ My skillsets involve:
 
 **Web Technologies:** HTML5, CSS, Javascript, NodeJS, ExpressJs, Angular 2 <br/>
 **Programming Languages:** Python, C, Javascript <br/>
-**Data analysis Frameworks:** Pandas, NumPy, SciPy, Sklearn, PyTorch, Excel, Pyspark, BeautifulSoup <br/>
+**Data analysis Frameworks:** Pandas, NumPy, SciPy, Sklearn, PyTorch, Excel, PySpark, BeautifulSoup <br/>
 **Data visualization Tools:** Matplotlib, Seaborn, Tableau <br/>
 **Big Data technologies:** Apache Spark <br/> 
 **Cloud Technologies:** Google Cloud Platform, Intel Cloud <br/>
