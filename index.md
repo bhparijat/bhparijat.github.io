@@ -23,4 +23,4 @@ My skillsets involve:
 **OS Platform:** Linux, Windows <br/>
 **Version Control:** Git, Bitbucket <br/>
 **Development Methodology:** Agile, Scrum         
-**SAAS tools and Platform:** Google Maps Platform
+**SAAS tools and Platform:** Google Maps Platform, Pelias GIS.
