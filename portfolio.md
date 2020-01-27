@@ -12,6 +12,10 @@ Databases, Computer Architecture.
 
 ## <u>Projects</u>
 
+**1.	Sentiment Analysis of Yelp Reviews(Ongoing):   
+	Using Apache spark to do  sentiment analysis of yelp reviews with  traditional machine learning tools as well as deep learning methods.
+	<u>Framework and platform used:</u> Apache Spark and Google Cloud Platform.    	
+
 **1.    Recommendation System for MovieLens Dataset**<br/>
 	Created a recommendation system for 10 million movies of MovieLens dataset by implementing collaborative filtering and matrix factorization. Used nearest neighbor algorithm for the collaborative	  filtering method and alternating least squares method for matrix factorization.
 	<u>Framework and platform used:</u> Apache Spark and Google Cloud Platform. You may find the [code here](https://github.com/bhparijat/Recommendation-system).
@@ -19,7 +23,7 @@ Databases, Computer Architecture.
 **2.    NYPD Crime Data Analysis**<br/>
 	Ongoing project. Reverse geocoded 4.8 million addresses using open source GIS database Pelias. Performed webscrapping to map zipcodes to city names and county names.
 	Ananlysed and generated summary statistics and visualizations for the crimes happened in New York between 2014 and 2017.
-	<u>Framework and platform used:</u> Google Cloud Platform, Google Maps Platform, BeautifulSoup, Pandas, Seaborn, Pelias. [Code link](https://github.com/bhparijat/NYPD-crime-analysis)
+	<u>Framework and platform used:</u> Google Cloud Platform, Google Maps Platform, BeautifulSoup, Pandas, Seaborn,Tableau, Pelias. [Code link](https://github.com/bhparijat/NYPD-crime-analysis)
 	<br/>
 	
 **3.    Monte Carlo Tree Search For Atari Game Pong**<br/>
