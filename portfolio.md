@@ -13,8 +13,9 @@ Databases, Computer Architecture.
 ## <u>Projects</u>
 
 **1.	Sentiment Analysis of Yelp Reviews(Ongoing):**      
-	Using Apache spark to do  sentiment analysis of yelp reviews with  traditional machine learning tools as well as deep learning methods.
-	<u>Framework and platform used:</u> Apache Spark and Google Cloud Platform.    	
+	Performed data cleaning. Built a TF-IDF model to obtain an AUROC score of 0.9.
+	Working on using CNN and LSTM for sentiment analysis task.
+	<u>Framework and platform used:</u>PyTorch, Apache Spark and Google Cloud Platform.    	
 
 **2.    Recommendation System for MovieLens Dataset**<br/>
 	Created a recommendation system for 10 million movies of MovieLens dataset by implementing collaborative filtering and matrix factorization. Used nearest neighbor algorithm for the collaborative	  filtering method and alternating least squares method for matrix factorization.
