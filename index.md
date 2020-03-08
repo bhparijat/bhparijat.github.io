@@ -14,8 +14,8 @@ I am looking for a full-time/part-time role in data analysis and machine learnin
 My skillsets involve:
 
 **Web Technologies:** HTML5, CSS, Javascript, NodeJS, ExpressJs, Angular 2 <br/>
-**Programming Languages:** Python, C, Javascript <br/>
-**Data analysis Frameworks:** Pandas, NumPy, SciPy, Sklearn, PyTorch, Excel, PySpark, BeautifulSoup <br/>
+**Programming Languages:** Python, C, Javascript, R <br/>
+**Data analysis Frameworks:** Pandas, NumPy, SciPy, Scikit-learn, PyTorch, Excel, PySpark, BeautifulSoup <br/>
 **Data visualization Tools:** Matplotlib, Seaborn, Tableau <br/>
 **Big Data technologies:** Apache Spark <br/> 
 **Cloud Technologies:** Google Cloud Platform, Intel Cloud <br/>
@@ -23,4 +23,4 @@ My skillsets involve:
 **OS Platform:** Linux, Windows <br/>
 **Version Control:** Git, Bitbucket <br/>
 **Development Methodology:** Agile, Scrum         
-**SAAS tools and Platform:** Google Maps Platform, Pelias GIS.
+**tools and Platform:** Google Maps Platform, Pelias GIS(for geocoding). Jupyter Notebooks 
