@@ -12,7 +12,7 @@ Databases, Computer Architecture.
 
 ## <u>Projects</u>
 
-**1.    Linear Regression for Ames Housing Dataset.**
+**1.    Linear Regression for Ames Housing Dataset.**    
 	Built an explanatory linear model for the data.    
 	Performed model selection using backward elimination and lasso regression.   
 	Applied box cox tranformation while performing model checking.    
@@ -32,8 +32,9 @@ Databases, Computer Architecture.
 	<u>Framework and platform used:</u> Apache Spark and Google Cloud Platform. You may find the [code here](https://github.com/bhparijat/Recommendation-system).     
 	
 **4.    NYPD Crime Data Analysis**<br/>
-	Reverse geocoded 4.8 million addresses using open source GIS database Pelias. Performed webscrapping to map zipcodes to city names and county names.     
-	Ananlysed and generated summary statistics and visualizations for the crimes happened in New York between 2014 and 2017.     
+	Reverse geocoded 4.8 million addresses using open source GIS database Pelias.      
+	Performed webscrapping to map zipcodes to city names and county names.        
+	Ananlysed and generated summary statistics and visualizations for the crimes happened in New York between 2014 and 2017.         
 	<u>Framework and platform used:</u> Google Cloud Platform, Google Maps Platform, BeautifulSoup, Pandas, Seaborn,Tableau, Pelias. [Code link](https://github.com/bhparijat/NYPD-crime-analysis)   
 	<br/>
 	
