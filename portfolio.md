@@ -1,5 +1,5 @@
 ---
-title:
+title: Portfolio
 layout: default
 permalink: /portfolio/
 ---
@@ -10,6 +10,9 @@ permalink: /portfolio/
 Data Structures, Algorithms, Calculus, Statistics theory, Statistical Methods, Probability,  Machine Learning, Deep Learning, Reinforcement Learning, Artificial Intelligence, Operating Systems,
 Databases, Computer Architecture.
 
+## <u>Certifications(March 2020 - May 2020)</u>     
+Working on associate cloud engineer and professional data engineer certifications from google cloud platform.
+
 ## <u>Projects</u>
 
 **1.    Linear Regression for Ames Housing Dataset.**    
@@ -19,7 +22,12 @@ Databases, Computer Architecture.
 	Used qqplots and residual vs fitted values plot to check for violation of assumptions.
 	[code link](https://github.com/bhparijat/Hypothesis-Testing-for-Linear-Models/tree/master/Project)
 	    
-
+**2.    Crime Data integration for different metropolitan cities.**     
+	Collected 20 million crime records for 12 different metropolitan cities.    
+	Performed ETL operation to sanitize data.   
+	Created a common SQL schema with useful attributes to build a MySQL database of 20 million arrest records.     
+	Performed queries on the MySQL database to generate a summary of crimes in particular cities.     
+	      
 **2.	Sentiment Analysis of Yelp Reviews(Ongoing):**      
 	Performed data cleaning.    
 	Built a TF-IDF model to obtain an AUROC score of 0.9.       
@@ -36,8 +44,7 @@ Databases, Computer Architecture.
 	Performed webscrapping to map zipcodes to city names and county names.        
 	Ananlysed and generated summary statistics and visualizations for the crimes happened in New York between 2014 and 2017.         
 	<u>Framework and platform used:</u> Google Cloud Platform, Google Maps Platform, BeautifulSoup, Pandas, Seaborn,Tableau, Pelias. [Code link](https://github.com/bhparijat/NYPD-crime-analysis)   
-	<br/>
-	
+	       
 **5.    Monte Carlo Tree Search For Atari Game Pong**<br/>
 	My teammate [Ravi](https://www.linkedin.com/in/sudharkj/) and I, created a Monte Carlo Tree Search and deep learning model, to generate a policy for action selection for the atari game Pong.
 	We implemented ideas from the famous deep-learning paper
