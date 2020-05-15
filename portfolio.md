@@ -11,7 +11,7 @@ Data Structures, Algorithms, Calculus, Statistics theory, Statistical Methods, P
 Databases, Computer Architecture.
 
 ## <u>Certifications(March 2020 - May 2020)</u>     
-Working on associate cloud engineer and professional data engineer certifications from google cloud platform.
+Professional data engineer certifications from google cloud platform.
 
 ## <u>Projects</u>
 
@@ -28,11 +28,13 @@ Working on associate cloud engineer and professional data engineer certification
 	Created a common SQL schema with useful attributes to build a MySQL database of 20 million arrest records.     
 	Performed queries on the MySQL database to generate a summary of crimes in particular cities.     
 	      
-**2.	Sentiment Analysis of Yelp Reviews(Ongoing):**      
+**2.	Sentiment Analysis of Yelp Reviews:**      
 	Performed data cleaning.    
-	Built a TF-IDF model to obtain an AUROC score of 0.9.       
-	Working on using CNN and LSTM for sentiment analysis task.       
-	<u>Framework and platform used:</u> PyTorch, Apache Spark and Google Cloud Platform.         	
+	Implemented a TF-IDF model using PySpark to obtain an AUROC score of 0.9.
+	Created a custom dataset and dataloader using Pytorch for data cleaning and validation.   
+	Built a neural network model that obtained a test accuracy of 93% .
+	[Code link](https://github.com/bhparijat/Yelp-reviews-PyTorch-and-Pyspark)   
+	<u>Framework and platform used:</u> PyTorch, Apache Spark and Google Cloud Dataproc cluster for spark job, OSU HPC cluster.         	
 
 **3.    Recommendation System for MovieLens Dataset**<br/>
 	Created a recommendation system for 10 million movies of MovieLens dataset by implementing collaborative filtering and matrix factorization.    
