@@ -88,6 +88,12 @@ Professional data engineer certifications from google cloud platform.
 	
 ## <u>Graduate Research</u>
 
-**Monte Carlo Planning** <br/>
+**Deep Learning and Reinforcement Learning** <br/>
 
-My advisor, [Prof. Prasad Tadepalli](http://web.engr.oregonstate.edu/~tadepall/) and I, are working on developing an AI-player algorithm using Monte Carlo Tree Search for the game of [Klondike Solitaire](https://www.solitaire-klondike.com/).
+My advisor, [Prof. Prasad Tadepalli](http://web.engr.oregonstate.edu/~tadepall/) and I, are working on developing an AI-player algorithm using Monte Carlo Tree Search and Graph neural networks for the game of [Klondike Solitaire](https://www.solitaire-klondike.com/).    
+
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7349976&style=0001&nbdigits=5&type=page&initCount=0" title="Web Counter" Alt="counter free"   border="0" >
+</a>                                    
+                     
