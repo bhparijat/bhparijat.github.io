@@ -8,11 +8,7 @@ permalink: /portfolio/
 
 
 Data Structures, Algorithms, Calculus, Statistics theory, Statistical Methods, Probability,  Machine Learning, Deep Learning, Reinforcement Learning, Artificial Intelligence, Operating Systems,
-Databases, Computer Architecture.
-
-## <u>Certifications(March 2020 - May 2020)</u>     
-Professional data engineer certifications from google cloud platform.
-
+Databases, Computer Architecture, Programming Languages.
 ## <u>Projects</u>
 
 **1.    Linear Regression for Ames Housing Dataset.**    

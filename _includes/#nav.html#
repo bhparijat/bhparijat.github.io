@@ -1,7 +1,0 @@
- 
-  <!-- <a href="{{site.baseurl}}/">Home</a> | -->
-  <a href="{{site.baseurl}}/">Home</a> |
-  
-  <a href="{{site.baseurl}}/portfolio/">Portfolio</a> | 
-  <a href="{{site.baseurl}}/assets/resume" download>CV</a>  
-
