@@ -5,7 +5,11 @@ permalink: /workExperience/
 ---
 # <u>Experience</u>
 
-**1. Graduate Teaching Assistant at Oregon State University (Sep 2019 - )**<br/>
+**1. Software Engineering(Data science) internship (Aug 2020 - Nov 2020)**<br/>
+  * Created a full stack machine learning application to get batches of locations classified as different types of residential structures.
+  * Technologies used: Python, AWS, PyTorch, Pandas, Google Maps Platform.
+     
+**1. Graduate Teaching Assistant at Oregon State University (Sep 2019 - June 2020 )**<br/>
 
   * Teaching assistant for undergrad operating system course.
   * Helped students with bash, C programming and python.   
