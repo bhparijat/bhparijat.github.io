@@ -5,7 +5,7 @@ permalink: /workExperience/
 ---
 # <u>Experience</u>
 
-**1. Software Engineering(Data science) internship (Aug 2020 - Nov 2020)**<br/>
+**1. Software Engineering(Data science) intern at TDS Telecom (Aug 2020 - Nov 2020)**<br/>
   * Created a full stack machine learning application to get batches of locations classified as different types of residential structures.
   * Technologies used: Python, AWS, PyTorch, Pandas, Google Maps Platform.
      
